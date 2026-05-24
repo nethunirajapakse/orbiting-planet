@@ -82,8 +82,8 @@ npm run build
 
 ## 📸 Preview
 
-*(Optional: Add a screenshot or a GIF of your orbiting planet here once it's running!)*
-`![Project Preview](path/to/screenshot.png)`
+[*(Optional: Add a screenshot or a GIF of your orbiting planet here once it's running!)*
+`![Project Preview](path/to/screenshot.png)`](https://orbiting-planet.vercel.app/)
 
 ---
 
