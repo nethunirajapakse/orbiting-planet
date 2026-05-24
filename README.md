@@ -69,14 +69,6 @@ npm run dev
 
 Once running, open your browser and navigate to the local URL provided in your terminal (usually `http://localhost:5173/`).
 
-### Production Build
-
-To compile and optimize the project for production deployment:
-
-```bash
-npm run build
-
-```
 
 ---
 
@@ -84,11 +76,4 @@ npm run build
 
 [Prebview deployed in vercel](https://orbiting-planet.vercel.app/)
 
----
-
-## 🔮 Future Enhancements
-
-* [ ] Add realistic texture mapping (e.g., Earth/Jupiter textures).
-* [ ] Implement particle systems for starry background fields or rings.
-* [ ] Add a UI control panel using `dat.gui` or `lil-gui` to tweak orbit speeds and lighting in real time.
 
